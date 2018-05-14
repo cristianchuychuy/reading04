@@ -1,1 +1,3 @@
+
 Exmaple of merge conflict
+
