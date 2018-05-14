@@ -1,1 +1,1 @@
-My first example in Github.
+Exmaple of merge conflict
